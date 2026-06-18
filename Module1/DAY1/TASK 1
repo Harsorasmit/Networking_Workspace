@@ -1,0 +1,43 @@
+TASK 1 : 
+        Draw a labeled diagram of a desktop PC, clearly marking the motherboard, CPU, RAM, GPU, and both HDD and SSD storage components.
+
+
+
++------------------------------------------+
+|                 PC CABINET               |
+|                                          |
+|   +----------------------------------+   |
+|   |          MOTHERBOARD             |   |
+|   |                                  |   |
+|   |    +-------+      +---------+    |   |
+|   |    |  CPU  |      |   RAM   |    |   |
+|   |    +-------+      +---------+    |   |
+|   |                                  |   |
+|   |    +------------------------+    |   |
+|   |    |          GPU           |    |   |
+|   |    +------------------------+    |   |
+|   +----------------------------------+   |
+|                                          |
+|                                          |
+|   +---------------+  +---------------+   |
+|   |      HDD      |  |      SSD      |   |
+|   |   (Storage)   |  |   (Storage)   |   |
+|   +---------------+  +---------------+   |
+|                                          |
++------------------------------------------+
+
+
+Motherboard:
+            The main board that connects everything together.
+
+CPU:
+    The "brain" that does all the thinking and processing.
+
+RAM:
+    The short-term memory for active tasks (makes things run fast right now).
+
+GPU:
+    The graphics card that handles visuals and gaming.
+
+HDD & SSD:
+          Where all your files, games, and the operating system are saved permanently, SSD is just much faster than HDD.
