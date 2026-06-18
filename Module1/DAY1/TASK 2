@@ -1,0 +1,18 @@
+TASK 2 :
+        Create a comparison table showing the main differences between HDD and SSD storage in terms of speed, durability, and typical use cases.<br><br><em><strong>Hint:</strong> Think about which one is faster, which is more shock-resistant, and where you would usually find each type (laptop, gaming PC, etc.)
+
+
+ FEATURE        | HDD (Hard Disk Drive)          | SSD (Solid State Drive)     
+================|================================|=============================
+ Speed          | Slower. Takes longer to boot   | Much Faster. Boots up PCs   
+                | up the PC, open large files,   | in seconds, drastically cuts
+                | and load games/software.       | load times for games/apps.  
+                |                                |
+ Durability &   | Fragile. Contains spinning     | Very Durable. Uses flash    
+ Shock-Resist   | disks and moving parts. Bumps  | memory with ZERO moving     
+                | or drops can destroy data.     | parts. Survives drops easily
+                |                                |
+ Typical Use    | - Mass storage (Photos/Videos) | - Modern, thin laptops      
+ Cases          | - Backup drives / Servers      | - Gaming PCs / Consoles    
+                | - Budget desktop builds        | - The main "Boot Drive"    
+                | - Security camera recording    |   where Windows is installed
