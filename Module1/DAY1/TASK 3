@@ -1,0 +1,11 @@
+TASK 3 : 
+        Write a short explanation (2-3 sentences each) describing the role of the CPU, RAM, and GPU in running a game like PUBG or Free Fire on a PC.
+
+CPU (Central Processing Unit)
+Think of the CPU as the game's strict referee and ultimate manager. It constantly calculates all the invisible rules and logic, like exactly where every other player is running, how your bullet will drop over a distance, and what happens when a vehicle crashes. It processes all this information in the background and then barks orders at the rest of your computer so everything stays perfectly synced.
+
+RAM (Random Access Memory)
+RAM is like a super-fast workbench or loading zone for your computer. When you drop into a massive map in PUBG or Free Fire, your RAM temporarily holds the nearby buildings, trees, and weapon sounds so your PC can grab them instantly without digging through your much slower hard drive. If you don't have enough RAM, your game will aggressively stutter or freeze every time you drive into a new town because the computer is scrambling to find the files it needs.
+
+GPU (Graphics Processing Unit)
+The GPU is the visual artist of the group, solely responsible for drawing every single frame you see on your monitor. It takes the raw, invisible logic provided by the CPU and rapidly paints on the high-resolution textures, sunlight, and shadows. A powerful GPU is exactly what gives you a buttery-smooth frame rate (FPS), allowing you to see enemies clearly and aim precisely without screen lag during intense firefights.
