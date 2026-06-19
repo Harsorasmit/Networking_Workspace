@@ -1,0 +1,25 @@
+TASK 3:
+       Create a comparison table listing at least 3 differences between air cooling and liquid cooling systems for GPUs, including factors like cost, efficiency, and maintenance.  
+
+
+
++----------------------+------------------------------+----------------------------------+
+| Factor               | Air Cooling                  | Liquid Cooling                   |
++----------------------+------------------------------+----------------------------------+
+| Cost                 | Lower cost; usually included | Higher cost due to pump,         |
+|                      | with most GPUs               | radiator, and coolant system     |
++----------------------+------------------------------+----------------------------------+
+| Cooling Efficiency   | Good for normal workloads    | Better heat dissipation and      |
+|                      | and gaming                   | lower temperatures under load    |
++----------------------+------------------------------+----------------------------------+
+| Maintenance          | Low maintenance; mainly      | Higher maintenance; coolant      |
+|                      | cleaning dust from fans      | and system checks may be needed  |
++----------------------+------------------------------+----------------------------------+
+| Noise Level          | Can become noisy at high     | Usually quieter due to efficient |
+|                      | fan speeds                   | heat transfer                    |
++----------------------+------------------------------+----------------------------------+
+| Installation         | Easy to install              | More complex installation        |
++----------------------+------------------------------+----------------------------------+
+| Reliability          | Very reliable with fewer     | Risk of pump failure or leaks    |
+|                      | components                   | (though uncommon)                |
++----------------------+------------------------------+----------------------------------+
