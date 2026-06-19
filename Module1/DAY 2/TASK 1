@@ -1,0 +1,34 @@
+TASK 1:
+       Draw a labeled diagram of an ATX motherboard and mark at least 8 different slots and ports (such as RAM slots, PCIe slots, SATA ports, USB headers, CPU socket, power connector, etc.).
+
+
+
+---------------------------------------------------------------
+|                       ATX MOTHERBOARD                       |
+---------------------------------------------------------------
+|                                                             |
+| (1) CPU Power                                               |
+| [::]                                                        |
+|                                                             |
+|          ----------------                                   |
+|         |                |   (2) RAM Slots                  |
+|         |   (3) CPU      |   | | | |                        |
+|         |   Socket       |   | | | |       (4) ATX Power    |
+|         |   (LGA/PGA)    |   | | | |                        |
+|         |                |   | | | |           [:::::::]    |
+|          ----------------    | | | |                        |
+|                                                             |
+|                              (5) M.2 NVME SSD Slot          |
+|                              [-------]                      |
+|                                                             |
+|  (6) PCIe x16 Slot                                          |
+|  [======||==============================]   (9) SATA Port   |
+|                                                [==] [==]    |
+|  (8) PCIe x1 Slot                              [==] [==]    |
+|  [===||========]                                            |
+|                                                             |
+---------------------------------------------------------------
+
+
+
+
