@@ -1,0 +1,14 @@
+TASK 3: 
+       Explain in your own words the primary functions of the CPU and the chipset on a motherboard, and describe how they work together when you open a music app like Spotify.
+
+
+
+1. CPU receives the command that you clicked the app.
+2. The chipset helps locate the Spotify program stored on your SSD or hard drive.
+3. The chipset transfers the program data from storage to RAM.
+4. The CPU loads and executes Spotify's instructions from RAM.
+5. The chipset helps Spotify communicate with other devices, such as:
+6. The network adapter to connect to Spotify's servers.
+7. The audio hardware to play music through your speakers or headphones.
+8. The CPU continuously processes Spotify's tasks, while the chipset keeps data moving smoothly between all the connected components.
+
