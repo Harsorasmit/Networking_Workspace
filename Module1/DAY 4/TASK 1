@@ -1,0 +1,18 @@
+TASK 1:
+       Open your own laptop or desktop (or use an online PC hardware simulator if you don't have access to a real system) and identify the GPU model installed. Write down the GPU's brand, model number, and whether it is integrated or dedicated.
+
+
+
+GPU Information
+
+Brand: Intel
+Model Number: Intel UHD Graphics 
+Size: 550 MB
+Type: Integrated
+
+OR 
+
+Brand: NVIDIA
+Model Number: NVIDIA T1200 Laptop GPU
+Size: 16 GB
+Type: Dedicated
