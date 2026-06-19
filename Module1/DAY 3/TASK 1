@@ -1,0 +1,18 @@
+TASK 1:
+       Create a comparison table listing the main differences between DDR3, DDR4, and DDR5 RAM, including speed, voltage, and typical use cases.
+
+
+
+
+------------------------------------------------------------------------------
+| Feature        | DDR3              | DDR4              | DDR5              |
+------------------------------------------------------------------------------
+| Speed Range    | 800–2133 MT/s     | 1600–3200 MT/s    | 4800–8400+ MT/s   |
+| Voltage        | 1.5V              | 1.2V              | 1.1V              |
+| Bandwidth      | Low               | Medium            | High              |
+| Power Usage    | Higher            | Lower             | Lowest            |
+| Capacity       | Up to 16GB/module | Up to 64GB/module | 128GB+ per module |
+| Performance    | Basic             | Good              | Excellent         |
+| Cost           | Cheapest          | Moderate          | Most Expensive    |
+| Compatibility  | Older Systems     | Modern Systems    | Latest Systems    |
+------------------------------------------------------------------------------
