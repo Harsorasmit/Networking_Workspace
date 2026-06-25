@@ -1,0 +1,38 @@
+TASK 3:
+       Draw a labeled diagram showing how a typical home printer connects to a laptop or PC, including the connection interface used (USB, Wi-Fi, or Bluetooth).
+
+
+
+1. USB (Universal Serial Bus - Wired)
+
+Advantage (Speed & Reliability):
+                                A direct physical connection provides the fastest, most stable data transfer with virtually zero latency. It is immune to wireless interference, making it ideal for devices that require uninterrupted data streams, like a 4K webcam or a high-resolution scanner.
+
+Disadvantage (Convenience): It requires a physical cable, which limits how far the peripheral can be placed from the computer, contributes to desk clutter, and typically means the device can only be connected to one computer at a time.
+
+=====================================
+
+2. Wi-Fi (Wireless Local Area Network)
+
+Advantage (Convenience & Compatibility):
+                                        Exceptional for shared environments. Once a Wi-Fi printer or scanner is on the network, any authorized device (Windows PC, Mac, smartphone, or tablet) can use it from anywhere in the building, eliminating the need to physically swap cables.
+
+Disadvantage (Reliability):
+                           Performance is entirely dependent on the strength of your local network. If your router goes down, the network is congested, or there are thick walls blocking the signal, you may experience slow speeds, delays, or dropped connections.
+
+=====================================
+
+**3. Bluetooth (Direct Wireless)**
+
+Advantage (Convenience): 
+                        Offers incredibly quick setups without relying on a central Wi-Fi network. It is perfect for traveling or temporary workspaces (like connecting a portable scanner in a coffee shop) and is universally compatible with almost all modern mobile devices and laptops.
+
+Disadvantage (Speed & Range):
+                             Bluetooth has the lowest data bandwidth of the three and a very limited physical range (typically under 30 feet). Because of slower data transfer speeds, it is generally unsuitable for high-bandwidth devices and is best for smaller tasks.
+
+
+
+
+
+
+
