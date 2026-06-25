@@ -1,0 +1,22 @@
+TASK 4:
+       Pick any one device you use at home or college (printer, scanner, or webcam). Write step-by-step instructions for how you would connect it to your computer, including what cable or wireless method you would use and any setup steps required.
+
+
+Wireless Printer Setup Guide
+
+This guide walks through connecting a typical home printer to a computer using a wireless Wi-Fi network.
+
+Step 1: Power and Preparation
+Unbox the printer, remove all protective packing materials, and plug the power cable into an electrical outlet. Turn the printer on.
+
+Step 2: Connect Printer to Wi-Fi
+Use the printer's built-in LCD screen or control panel to navigate to the Network Settings or Wi-Fi Setup Wizard. Select your home Wi-Fi network from the list and enter the password.
+
+Step 3: Match the Computer Network
+Ensure your laptop or desktop PC is connected to the exact same Wi-Fi network as the printer. They must share the same network router to communicate with each other.
+
+Step 4: Add the Printer in System Settings
+On Windows, go to Settings > Bluetooth & devices > Printers & scanners, and click Add device. On Mac, go to System Settings > Printers & Scanners, and click the Add Printer, Scanner, or Fax button. Select your printer when it appears in the discovery list.
+
+Step 5: Install Drivers and Test
+If prompted, download the manufacturer's official companion software (such as HP Smart, Canon PRINT, or Epson Connect) to complete calibration. Open any document and print a test page to confirm the connection is working perfectly.
