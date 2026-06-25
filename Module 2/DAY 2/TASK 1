@@ -1,1 +1,25 @@
+TASK 1:
+       List 3 real-world devices in your home or college that use SMPS (Switched Mode Power Supply) and 2 devices that use UPS (Uninterruptible Power Supply), explaining in one line why each device needs that type of power supply.
 
+
+
+Devices Using SMPS (Switched Mode Power Supply)
+
+Desktop Computer:
+                 Needs an SMPS to efficiently step down high AC wall voltage into multiple stable, low DC voltages (like 3.3V, 5V, and 12V) for delicate internal components without generating excessive, damaging heat.
+
+Smartphone Charger (Power Brick):
+                                 Uses a miniaturized SMPS to efficiently convert AC mains power into the 5V DC power your phone needs, allowing the charger to be incredibly compact and lightweight.
+
+LED Television:
+               Requires an SMPS to provide highly regulated, stable DC power to the display panel and internal smart processors while keeping the TV's overall profile thin and energy-efficient.
+
+---------------------
+
+Devices Using UPS (Uninterruptible Power Supply)
+
+Desktop PC or College Server:
+                             Relies on a UPS to instantly provide emergency battery power during a sudden blackout, giving you enough time to save unsaved assignments and safely shut down the hardware to prevent data corruption.
+
+Home Wi-Fi Router:
+                  Uses a UPS to bridge the gap during power flickers or outages, ensuring continuous internet connectivity so you aren't disconnected in the middle of an online exam or important download.
