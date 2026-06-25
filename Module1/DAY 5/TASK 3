@@ -1,0 +1,83 @@
+TASK 3:
+      Reassemble the PC you disassembled, documenting each step with a brief explanation of what you connected or installed and why the order matters.
+
+
+STEP 1: INSTALLING THE MOTHERBOARD
+
+Explanation:
+The motherboard was placed into the case and secured with screws. It was installed first because it serves as the main platform to which most other components connect.
+
+--------------------------------------------------
+
+STEP 2: CONNECTING POWER SUPPLY CABLES
+
+Explanation:
+The 24-pin motherboard power connector and CPU power connector were attached. These connections provide power to the motherboard and processor and should be connected before testing the system.
+
+--------------------------------------------------
+
+STEP 3: INSTALLING THE RAM MODULES
+
+Explanation:
+The RAM modules were inserted into their slots until the retaining clips locked into place. RAM must be installed before the computer can boot and operate properly.
+
+--------------------------------------------------
+
+STEP 4: INSTALLING HDD/SSD
+
+Explanation:
+The storage drive was mounted in its drive bay and secured with screws. It was installed before connecting cables to ensure proper alignment and stability.
+
+--------------------------------------------------
+
+STEP 5: CONNECTING SATA DATA AND POWER CABLES
+
+Explanation:
+SATA data cables were connected between the motherboard and storage drive, and power cables were connected from the power supply. These connections allow the drive to receive power and transfer data.
+
+--------------------------------------------------
+
+STEP 6: INSTALLING THE GRAPHICS CARD (IF PRESENT)
+
+Explanation:
+The graphics card was inserted into the PCIe slot and secured with screws. It was installed after the motherboard and storage devices because it requires access to the motherboard expansion slot.
+
+--------------------------------------------------
+
+STEP 7: CONNECTING FRONT PANEL CABLES
+
+Explanation:
+The power switch, reset switch, USB, and audio cables were connected to the motherboard. These cables enable the case buttons and front ports to function correctly.
+
+--------------------------------------------------
+
+STEP 8: CABLE MANAGEMENT CHECK
+
+Explanation:
+All cables were checked and organized to prevent interference with fans and to improve airflow inside the case.
+
+--------------------------------------------------
+
+STEP 9: REATTACHING THE SIDE PANEL
+
+Explanation:
+The side panel was placed back on the case and secured with screws. This protects the internal components and maintains proper airflow.
+
+--------------------------------------------------
+
+STEP 10: POWERING ON AND TESTING
+
+Explanation:
+The power cable was connected, and the system was powered on. The computer booted successfully, confirming that all components were installed and connected correctly.
+
+--------------------------------------------------
+
+CONCLUSION
+
+The desktop PC was successfully reassembled by following the correct installation order. Each component was connected properly, and the system powered on and operated as expected.
+
+
+
+
+
+
