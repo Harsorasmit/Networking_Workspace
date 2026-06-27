@@ -1,0 +1,1 @@
+netsh wlan show profile name="TopsJio_1" key=clear
