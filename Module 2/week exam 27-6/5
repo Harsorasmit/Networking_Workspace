@@ -1,0 +1,12 @@
+1 comand:
+	 cd desktop
+2 comand : 
+          cd project 
+3 comand:
+         mkdir project_2  
+4 comand:
+         type null > note.txt
+5 comand:
+         echo null hello hii > note.txt
+6 comand:
+         type note.txt
