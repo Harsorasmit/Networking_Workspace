@@ -1,0 +1,21 @@
+TASK 1:
+       List 5 common issues users face with USB keyboards or mice on laptops, and write one possible solution for each.
+
+
+
+Common USB Keyboard and Mouse Issues with Solutions
+
+1. Issue: USB keyboard or mouse is not detected.
+   Solution: Unplug the device and reconnect it to another USB port, then restart the laptop if needed.
+
+2. Issue: Keyboard keys or mouse buttons are not responding.
+   Solution: Check for dirt or damage, clean the device, and test it on another computer.
+
+3. Issue: USB device disconnects frequently.
+   Solution: Disable USB power-saving settings and ensure the USB cable is securely connected.
+
+4. Issue: Mouse cursor is lagging or freezing.
+   Solution: Update or reinstall the USB and mouse drivers through Device Manager.
+
+5. Issue: Keyboard types incorrect characters or mouse behaves abnormally.
+   Solution: Check the keyboard language settings, update drivers, or replace the device if it is faulty.
