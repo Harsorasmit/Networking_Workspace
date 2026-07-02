@@ -1,0 +1,29 @@
+TASK 3:
+       A user reports that their external webcam is not detected during a Zoom call on Windows 10. Write a checklist of 6 things to check or try to resolve the problem. Consider device manager, privacy settings, and app permissions
+
+
+
+External Webcam Troubleshooting Checklist (Windows 10)
+
+1. Check the USB Connection
+   - Disconnect the webcam and reconnect it to another USB port. Make sure the cable is securely connected.
+
+2. Verify the Webcam in Device Manager
+   - Open **Device Manager** and check under **Cameras** or **Imaging Devices**.
+   - If the webcam has a warning icon, update or reinstall the driver.
+
+3. Check Windows Privacy Settings
+   - Go to **Settings > Privacy > Camera**.
+   - Make sure **Camera access for this device** and **Allow apps to access your camera** are turned **On**.
+
+4. Check Zoom Camera Settings
+   - Open **Zoom > Settings > Video**.
+   - Select the correct external webcam from the **Camera** drop-down list and confirm the video preview appears.
+
+5. Close Other Applications Using the Camera
+   - Exit apps such as Microsoft Teams, Skype, Discord, or the Camera app that may already be using the webcam.
+   - Restart Zoom and try again.
+
+6. Restart and Update
+   - Restart the computer.
+   - Check for Windows updates and install the latest webcam drivers if available, then test the webcam again.
