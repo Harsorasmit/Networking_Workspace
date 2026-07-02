@@ -1,0 +1,18 @@
+TASK 2:
+       Set up a local printer (USB or network), install the correct driver, and print a test page to confirm successful installation.
+
+
+
+Local Printer Setup and Test
+
+1. Connected the printer to the computer using a USB cable (or connected both the printer and computer to the same Wi-Fi/network for a network printer).
+2. Turned on the printer and ensured it was ready.
+3. Opened **Settings > Devices > Printers & scanners**.
+4. Clicked **Add a printer or scanner** and selected the detected printer.
+5. Installed the recommended printer driver (or downloaded the correct driver from the printer manufacturer's website if prompted).
+6. Waited for the installation to complete successfully.
+7. Opened **Printers & scanners**, selected the installed printer, and clicked **Manage**.
+8. Selected **Print a test page** to verify the installation.
+
+Result:
+The printer was installed successfully, the correct driver was installed, and the test page printed successfully, confirming that the printer is working properly.
