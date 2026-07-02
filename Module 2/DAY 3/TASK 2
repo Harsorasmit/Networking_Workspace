@@ -1,0 +1,48 @@
+TASK 2:
+       Simulate a troubleshooting flow: Your Bluetooth headphones are not connecting to your phone. Write the exact step-by-step actions you would take to diagnose and fix the issue, mentioning any settings or indicators you would check.
+
+
+
+Bluetooth Headphones Troubleshooting Flow
+
+1. Turn on the Bluetooth headphones and make sure they are in pairing mode.
+   - Check if the LED indicator is blinking (usually blue or blue/red), which means the headphones are ready to pair.
+
+2. Open the phone's **Settings > Bluetooth**.
+   - Ensure Bluetooth is turned **ON**.
+
+3. Check if the headphones appear in the list of available devices.
+   - If they appear, tap the headphone name to connect.
+
+4. If the headphones do not appear:
+   - Turn Bluetooth OFF and then ON again.
+   - Refresh the list of available devices.
+
+5. If the headphones were previously paired but won't connect:
+   - Tap the settings icon next to the headphone name.
+   - Select **Forget** or **Unpair** the device.
+   - Put the headphones back into pairing mode and pair them again.
+
+6. Check the battery level of the headphones.
+   - Charge them if the battery is low, then try connecting again.
+
+7. Restart both the phone and the Bluetooth headphones.
+   - After restarting, repeat the pairing process.
+
+8. Make sure the headphones are not connected to another device (such as a laptop or another phone).
+   - Disconnect them from the other device if necessary.
+
+9. Move the headphones closer to the phone.
+   - Ensure there are no major obstacles or sources of wireless interference.
+
+10. If the problem still exists:
+    - Check for software updates on the phone.
+    - Reset the headphones to factory settings (refer to the user manual).
+    - Pair the headphones again.
+
+11. Final Check:
+    - Confirm the headphones show **Connected** in the Bluetooth settings.
+    - Play audio to verify that sound is coming through the headphones.
+
+
+
