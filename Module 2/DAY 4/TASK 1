@@ -1,0 +1,17 @@
+TASK 1:
+       Connect a USB webcam to your computer, install any required drivers, and verify that the webcam works by opening the default camera app and capturing a photo.
+
+
+USB Webcam Installation and Verification
+
+1. Connected the USB webcam to an available USB port on the computer.
+2. Waited for Windows to detect the new hardware.
+3. Allowed Windows to automatically install the required drivers.
+4. Verified in Device Manager that the webcam appeared under "Cameras" with no warning symbols.
+5. Opened the Windows Camera app from the Start menu.
+6. Confirmed that the webcam displayed a live video preview.
+7. Clicked the Capture button to take a photo.
+8. Verified that the photo was saved successfully in the Pictures > Camera Roll folder.
+
+Result:
+The USB webcam was detected successfully, the drivers were installed correctly, and the webcam worked properly in the Windows Camera app. A test photo was captured successfully.
