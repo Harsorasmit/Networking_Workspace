@@ -1,0 +1,33 @@
+TASK 4:
+       You are helping a friend whose printer is showing 'offline' status on their PC. Describe how you would use the Windows Troubleshooter tool to try to fix the issue, and explain what information the tool provides during the process.
+
+
+Using Windows Troubleshooter to Fix an Offline Printer
+
+1. Turn on the printer and make sure it is connected to the computer or the same Wi-Fi network.
+
+2. Click **Start** and open **Settings**.
+
+3. Go to **Update & Security > Troubleshoot > Additional troubleshooters**.
+
+4. Select **Printer**, then click **Run the troubleshooter**.
+
+5. Choose the printer that shows **Offline** from the list and click **Next**.
+
+6. Wait while Windows checks for common printer problems, such as:
+   - Printer is set to Offline.
+   - Print Spooler service is not running.
+   - Driver or connection issues.
+   - Incorrect default printer settings.
+
+7. If the troubleshooter finds a problem, select **Apply this fix** if prompted.
+
+8. After the repair is complete, print a test page to confirm the printer is working.
+
+
+Information Provided by the Troubleshooter:
+- Displays the printer selected for diagnosis.
+- Shows the troubleshooting steps being performed.
+- Identifies any detected problems (for example, offline status, driver issues, or spooler errors).
+- Indicates whether the issue was fixed automatically or if manual action is required.
+- Provides recommendations or additional steps if the problem cannot be resolved automatically.
