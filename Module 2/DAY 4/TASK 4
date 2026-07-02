@@ -1,0 +1,34 @@
+TASK 4:
+       A user reports that their webcam video is not displaying in Zoom, but it works in the default camera app. Troubleshoot and resolve the issue so the webcam works in both applications. Check if another app is using the webcam or if Zoom permissions are enabled.
+
+
+
+Troubleshooting Webcam Not Displaying in Zoom
+
+Problem:
+The webcam works in the Windows Camera app but does not display video in Zoom.
+
+Troubleshooting Steps:
+
+1. Closed the Windows Camera app and any other applications that might be using the webcam (such as Microsoft Teams, Skype, or Discord).
+
+2. Opened Zoom and navigated to:
+   Settings > Video
+   Selected the correct external webcam from the Camera drop-down menu.
+
+3. Checked Windows camera permissions:
+   - Opened Settings > Privacy > Camera.
+   - Confirmed "Camera access for this device" is On.
+   - Confirmed "Allow apps to access your camera" is On.
+   - Confirmed "Allow desktop apps to access your camera" is On so Zoom can use the webcam.
+
+4. Restarted Zoom after changing the settings.
+
+5. Opened Device Manager and verified the webcam appeared under "Cameras" with no yellow warning icon. Updated the driver if necessary.
+
+6. Restarted the computer to ensure no application was still holding the webcam.
+
+7. Started a new Zoom meeting and confirmed the webcam displayed video correctly.
+
+Result:
+The webcam worked successfully in both the Windows Camera app and Zoom after ensuring no other application was using the camera, selecting the correct camera in Zoom, and enabling the required Windows camera permissions.
