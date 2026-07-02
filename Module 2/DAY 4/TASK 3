@@ -1,0 +1,20 @@
+TASK 3:
+       Simulate a connectivity issue by unplugging the printer's USB cable, then use Windows Device Manager to identify and resolve the 'printer not detected' problem. Check for error icons and use the 'Scan for hardware changes' option after reconnecting.
+
+
+
+Simulating a Printer Connectivity Issue Using Device Manager
+
+1. Connected the USB printer and confirmed it was working.
+2. Unplugged the printer's USB cable from the computer.
+3. Opened Device Manager by right-clicking the Start button and selecting "Device Manager."
+4. Checked the printer category (or Other devices) and confirmed that the printer was missing or showed a warning icon if there was a driver issue.
+5. Reconnected the printer's USB cable to the computer.
+6. In Device Manager, clicked "Action" > "Scan for hardware changes."
+7. Waited for Windows to detect the printer and reinstall or reload the device.
+8. Verified that the printer appeared in Device Manager without any yellow warning or red error icons.
+9. Opened **Settings > Devices > Printers & scanners** and confirmed the printer was listed and ready.
+10. Printed a test page to verify that the printer was detected and functioning correctly.
+
+Result:
+After reconnecting the USB cable and using "Scan for hardware changes," Windows detected the printer successfully. No error icons were present in Device Manager, and the printer was available for use.
