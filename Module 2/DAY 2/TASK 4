@@ -1,0 +1,53 @@
+TASK 4:
+       Imagine you are setting up a new gaming PC. List the steps you would follow to connect the SMPS to the motherboard, graphics card, and storage devices, mentioning which specific cables and connectors are used for each.
+
+
+
+Steps to Connect an SMPS in a New Gaming PC
+
+1. Turn off the power supply
+
+   * Ensure the SMPS switch is OFF (0) and the power cord is unplugged.
+
+2. Connect the motherboard
+
+   * Use the 24-pin ATX motherboard power connector.
+   * Plug it into the 24-pin ATX socket on the motherboard until the locking clip clicks into place.
+
+3. Connect the CPU power
+
+   * Use the 8-pin EPS (4+4) CPU power connector.
+   * Connect it to the CPU_PWR socket near the processor on the motherboard.
+
+4. Connect the graphics card (GPU)
+
+   * Install the graphics card into the PCIe slot.
+   * Connect the required PCIe 6-pin, 8-pin, or 6+2-pin power connector(s) from the SMPS to the GPU.
+
+5. Connect SATA storage devices
+
+   * Use SATA power connectors from the SMPS.
+   * Connect them to SATA SSDs, HDDs, or DVD/Blu-ray drives.
+
+6. Connect any Molex-powered devices (if needed)
+
+   * Use the 4-pin Molex connector for older fans, IDE drives, or accessories that require it.
+
+7. Check all connections
+
+   * Verify that every connector is fully inserted and the locking clips are engaged.
+   * Make sure no cables are loose or obstructing fans.
+
+8. Power on the system
+
+   * Plug in the AC power cord.
+   * Turn the SMPS switch to ON (I) and press the PC power button to start the system.
+
+
+| Component                          | SMPS Cable/Connector                    |
+| ---------------------------------- | --------------------------------------- |
+| Motherboard                        | 24-pin ATX power connector              |
+| CPU                                | 8-pin EPS (4+4) CPU power connector     |
+| Graphics Card (GPU)                | PCIe 6-pin, 8-pin, or 6+2-pin connector |
+| SATA SSD/HDD/Optical Drive         | SATA power connector                    |
+| Older fans or IDE devices (if any) | 4-pin Molex connector                   |
