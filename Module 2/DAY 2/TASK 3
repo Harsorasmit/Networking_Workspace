@@ -1,0 +1,57 @@
+TAST 3:
+     Draw and label a diagram showing the main internal components of a typical SMPS unit found in a desktop PC, including AC input, rectifier, transformer, and DC output sections. You can hand-draw and upload a photo, or use any free diagram tool like draw.io.
+
+
+                
+                                               Typical Desktop PC SMPS
+
+        AC Mains Input (230V AC)
+                  │
+                  ▼
+        ┌──────────────────┐
+        │ EMI Filter       │
+        │ (Noise Filter)   │
+        └──────────────────┘
+                  │
+                  ▼
+        ┌──────────────────┐
+        │ Bridge Rectifier │
+        │ (AC → DC)        │
+        └──────────────────┘
+                  │
+                  ▼
+        ┌──────────────────┐
+        │ Filter Capacitor │
+        │ (Smooth DC)      │
+        └──────────────────┘
+                  │
+                  ▼
+        ┌──────────────────┐
+        │ High-Frequency   │
+        │ Switching Circuit│
+        │ (PWM Controller) │
+        └──────────────────┘
+                  │
+                  ▼
+        ┌──────────────────┐
+        │ HF Transformer   │
+        │ (Isolation &     │
+        │ Voltage Change)  │
+        └──────────────────┘
+                  │
+                  ▼
+        ┌──────────────────┐
+        │ Secondary        │
+        │ Rectifier        │
+        └──────────────────┘
+                  │
+                  ▼
+        ┌──────────────────┐
+        │ Output Filter    │
+        │ (Inductors &     │
+        │ Capacitors)      │
+        └──────────────────┘
+                  │
+                  ▼
+      DC Outputs to PC Components
+   +3.3V     +5V     +12V     Ground
