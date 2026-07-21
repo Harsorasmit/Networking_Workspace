@@ -1,0 +1,57 @@
+NETWORK SETUP AND CONNECTIVITY TEST REPORT
+
+Title:
+Network Setup, Ping Test, and Traceroute Report
+
+Objective:
+To set up a basic network, test communication between devices using the ping command, and trace the network path to an internet server using the tracert command.
+
+Network Setup:
+1. Connected the Wi-Fi router to the ISP internet connection.
+2. Connected the laptop to the Wi-Fi network.
+3. Connected a smartphone to the same Wi-Fi network.
+4. Verified that both devices received IP addresses automatically using DHCP.
+5. Checked the network configuration using the ipconfig command.
+
+Ping Test:
+1. Found the smartphone's IP address.
+2. Opened Command Prompt on the laptop.
+3. Ran the command:
+   ping <Smartphone_IP_Address>
+4. The ping test was successful while both devices were connected to the same Wi-Fi network.
+5. After disconnecting the smartphone from Wi-Fi, the ping command displayed "Request timed out" because the device was no longer reachable.
+
+Traceroute Test:
+1. Opened Command Prompt.
+2. Ran the command:
+   tracert www.youtube.com
+3. The output displayed the path (hops) taken by data packets from the laptop to YouTube's server.
+
+Observations:
+- Both devices communicated successfully when connected to the same Wi-Fi network.
+- The router assigned IP addresses using DHCP.
+- Disconnecting the smartphone caused the ping test to fail.
+- Traceroute displayed the routers through which the data traveled before reaching the destination.
+
+Example Command Outputs:
+
+ipconfig
+IPv4 Address      : 192.168.1.100
+Subnet Mask       : 255.255.255.0
+Default Gateway   : 192.168.1.1
+
+ping
+Reply from 192.168.1.105: bytes=32 time=3ms TTL=64
+Packets: Sent = 4, Received = 4, Lost = 0 (0% loss)
+
+tracert
+Tracing route to www.youtube.com
+1    192.168.1.1
+2    ISP Router
+3    ISP Network
+...
+10   www.youtube.com
+
+Conclusion:
+The network setup was completed successfully. The ping command verified communication between devices on the local network, while the tracert command showed the path taken by packets to an internet destination. These tools are useful for troubleshooting network connectivity and identifying communication issues.
+
