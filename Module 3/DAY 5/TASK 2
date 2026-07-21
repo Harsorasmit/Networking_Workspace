@@ -1,0 +1,39 @@
+TRACEROUTE (TRACERT) TO www.youtube.com
+
+Objective:
+Find the network path (hops) from your computer to www.youtube.com.
+
+On Windows:
+1. Open Command Prompt.
+2. Type:
+   tracert www.youtube.com
+3. Press Enter.
+4. Wait for the trace to complete.
+
+On macOS/Linux:
+1. Open Terminal.
+2. Type:
+   traceroute www.youtube.com
+3. Press Enter.
+
+Record Your Results:
+
+Destination:
+www.youtube.com
+
+Number of Hops:
+____________________
+
+Example Output:
+
+Tracing route to www.youtube.com
+
+ 1    <1 ms     1 ms     1 ms   192.168.1.1
+ 2     8 ms     7 ms     8 ms   ISP Router
+ 3    12 ms    11 ms    12 ms   ISP Network
+ ...
+10    25 ms    24 ms    25 ms   www.youtube.com
+
+Example Number of Hops:
+10
+
