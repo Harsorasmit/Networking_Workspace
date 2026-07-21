@@ -1,0 +1,46 @@
+CHANGE IP ADDRESS FROM DHCP TO STATIC (WINDOWS)
+
+1. Press Win + R, type:
+   ncpa.cpl
+   and press Enter.
+
+2. Right-click your active Wi-Fi adapter.
+   Select "Properties".
+
+3. Double-click:
+   Internet Protocol Version 4 (TCP/IPv4)
+
+4. Select:
+   "Use the following IP address"
+
+5. Enter values that match your router's network.
+   Example:
+   IP Address:      192.168.1.50
+   Subnet Mask:     255.255.255.0
+   Default Gateway: 192.168.1.1
+
+6. Enter DNS servers (example):
+   Preferred DNS:   8.8.8.8
+   Alternate DNS:   8.8.4.4
+
+7. Click OK and close all windows.
+
+8. Test Internet Access:
+   - Open a web browser and visit a website, or
+   - Open Command Prompt and run:
+     ping 8.8.8.8
+     ping google.com
+
+9. If the pings succeed or websites open, the static IP is working.
+
+10. Revert to DHCP:
+    - Open TCP/IPv4 Properties again.
+    - Select:
+      "Obtain an IP address automatically"
+      "Obtain DNS server address automatically"
+    - Click OK.
+
+
+
+
+
