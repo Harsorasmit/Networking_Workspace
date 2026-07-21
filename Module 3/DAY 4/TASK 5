@@ -1,0 +1,51 @@
+PING TEST BETWEEN A LAPTOP AND A PHONE ON THE SAME WI-FI
+
+Objective:
+Check whether a laptop and a smartphone can communicate over the same Wi-Fi network.
+
+Requirements:
+- Laptop connected to the Wi-Fi network.
+- Smartphone connected to the same Wi-Fi network.
+- Both devices should be on the same subnet.
+
+Step 1: Find the IP Address
+
+On the Laptop (Windows):
+1. Open Command Prompt.
+2. Type:
+   ipconfig
+3. Note the IPv4 Address (example: 192.168.1.100).
+
+On the Phone:
+- Android:
+  Go to Settings → Wi-Fi → Connected Network.
+  Note the IP Address (example: 192.168.1.105).
+
+Step 2: Ping the Phone from the Laptop
+
+1. Open Command Prompt.
+2. Type:
+   ping 192.168.1.105
+   (Replace with your phone's IP address.)
+3. Press Enter.
+
+Example Successful Output:
+
+Reply from 192.168.1.105: bytes=32 time=3ms TTL=64
+Reply from 192.168.1.105: bytes=32 time=2ms TTL=64
+
+Packets: Sent = 4, Received = 4, Lost = 0 (0% loss)
+
+Step 3: Ping the Laptop from the Phone
+
+- Use a network utility app or Termux.
+- Run:
+  ping 192.168.1.100
+  (Replace with your laptop's IP address.)
+
+Expected Result:
+- If both devices receive replies, they can communicate successfully on the local network.
+- If the ping fails, check:
+  • Both devices are connected to the same Wi-Fi network.
+  • Windows Firewall or phone security settings are not blocking ICMP (ping).
+  • AP/client isolation is disabled on the Wi-Fi router.
