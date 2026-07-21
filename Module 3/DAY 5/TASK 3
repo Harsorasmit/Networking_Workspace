@@ -1,0 +1,31 @@
+PING TEST AFTER DISCONNECTING A DEVICE FROM WI-FI
+
+Objective:
+Observe what happens when you try to ping a device that is no longer connected to the Wi-Fi network.
+
+Steps:
+1. Connect both the laptop and the other device (phone or another laptop) to the same Wi-Fi network.
+2. Note the IP address of the other device.
+3. Disconnect the other device from the Wi-Fi.
+4. On the laptop, open Command Prompt.
+5. Run:
+   ping <device_IP_address>
+
+Example:
+   ping 192.168.1.105
+
+Typical Error Message:
+
+Request timed out.
+
+Example Output:
+
+Pinging 192.168.1.105 with 32 bytes of data:
+
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.168.1.105:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss)
