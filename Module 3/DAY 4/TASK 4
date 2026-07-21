@@ -1,0 +1,3 @@
+SCENARIO: SETTING UP A GAMING CAFÉ WITH 10 PCs
+
+For a gaming café with 10 PCs, I would use CAT6 Ethernet cables because they provide high-speed, low-latency connections that are ideal for LAN gaming and are much more affordable than fiber optic cables for short distances. I would use an RJ45 crimper to attach RJ45 connectors to the Ethernet cables. Since all the PCs are located in the same room, Ethernet easily supports the required distance (up to 100 meters) while keeping installation costs low. Fiber optic cables and a fiber cleaver are better suited for long-distance links between buildings or data centers, where higher bandwidth over long distances is needed.
