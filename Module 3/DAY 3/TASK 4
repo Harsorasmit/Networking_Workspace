@@ -1,0 +1,13 @@
+DHCP RANGE AND IP ADDRESS CONFLICT
+
+Current DHCP Range:
+Start IP Address : ____________________
+End IP Address   : ____________________
+
+(Note: The DHCP range is usually found in the router's admin panel under LAN Settings, Network Settings, or DHCP Server.)
+
+What happens if two devices have the same IP address?
+
+If two devices are assigned the same IP address on the same network, an IP address conflict occurs. This can cause one or both devices to lose network or internet connectivity, experience intermittent connection problems, or be unable to communicate properly with other devices until each device has a unique IP address.
+
+
