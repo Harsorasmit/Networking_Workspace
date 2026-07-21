@@ -1,0 +1,37 @@
+                    TYPICAL HOME Wi-Fi ROUTER (REAR VIEW)
+
+                 ┌───────────────────────────────────────┐
+                 │               ROUTER                  │
+                 │                                       │
+                 │  ● Power  ● Internet  ● Wi-Fi  ● LAN  │
+                 │      ↑ Status LED Indicators          │
+                 └───────────────────────────────────────┘
+                  │     │      │      │      │      │
+                  │     │      │      │      │      │
+               [DC]   [WAN]  [LAN1] [LAN2] [LAN3] [LAN4]
+                │       │       │      │      │      │
+             Power   Modem   Desktop  TV   Printer  PC
+             Input  Internet
+
+Labels:
+• Status LEDs – Show power, internet, Wi-Fi, and LAN activity.
+• WAN Port – Connects the router to the modem/ISP.
+• LAN Ports – Connect wired devices such as computers, TVs, and printers.
+• DC Power Port – Connects the power adapter.
+
+
+               TYPICAL NETWORK SWITCH (FRONT / REAR VIEW)
+
+        ┌─────────────────────────────────────────────────────┐
+        │                    NETWORK SWITCH                   │
+        │ ● Power ● Link/Act LEDs ● Speed LEDs                │
+        └─────────────────────────────────────────────────────┘
+         │      │      │      │      │        │
+      [Console][LAN1][LAN2] [LAN3] [LAN4] . [LAN8]
+         │        │      │      │      │  
+       Setup   Desktop Printer Server Access Point
+
+Labels:
+• Status LEDs – Indicate power, link status, and network activity.
+• Console Port – Used for configuration and management (mainly on managed switches).
+• LAN (Ethernet) Ports – Connect computers, printers, servers, and access points.
