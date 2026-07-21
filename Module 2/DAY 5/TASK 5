@@ -1,0 +1,111 @@
+Windows 10 Installation Guide (Laptop)
+
+Before you begin
+
+Back up any important files.
+* Have a USB drive (8 GB or larger).
+* Download the official Windows 10 installation media using Microsoft's Media Creation Tool.
+* Plug your laptop into AC power.
+
+Step 1: Create the Installation USB
+
+1. Download the Windows 10 Media Creation Tool from Microsoft's official website.
+2. Insert your USB drive.
+3. Run the tool.
+4. Select Create installation media.
+5. Choose your language, edition, and architecture (typically 64-bit).
+6. Select USB flash drive and complete the process.
+
+Step 2: Boot from the USB
+
+1. Insert the USB into the laptop.
+2. Restart the laptop.
+3. Open the boot menu (commonly F12, F9, Esc, or F11, depending on the manufacturer).
+4. Select the USB drive.
+
+ Step 3: Start Windows Setup
+
+1. Choose your language, time, and keyboard layout.
+2. Click Install Now.
+3. Enter your product key, or choose I don't have a product key if you plan to activate later.
+4. Select the correct Windows edition.
+
+ Step 4: Accept the License
+
+1. Read the license terms.
+2. Check the agreement box.
+3. Click Next.
+
+Step 5: Choose Installation Type
+
+Select Custom: Install Windows only (advanced) for a clean installation.
+
+Step 6: Partitioning Tips
+
+ For a clean installation
+
+* If you are erasing the entire drive:
+
+  * Delete all existing partitions on the target drive (this removes all data).
+  * Select the resulting Unallocated Space.
+  * Click Next.
+  * Windows will automatically create the required system partitions.
+
+ If keeping another operating system
+
+* Do not delete partitions that belong to the other OS.
+* Install Windows only into a prepared partition with enough free space (typically at least 64 GB, preferably 100 GB or more).
+
+ General recommendations
+
+* Back up important data before changing partitions.
+* Ensure you select the correct physical drive if multiple drives are installed.
+* For modern UEFI systems, use gpt partitioning rather than MBR.
+
+Step 7: Install Windows
+
+1. Wait while Windows copies files and installs features.
+2. The computer will restart several times.
+3. Do not interrupt the installation.
+
+Step 8: Initial Setup
+
+1. Select your region and keyboard.
+2. Connect to Wi-Fi (optional but recommended).
+3. Sign in with a Microsoft account or create a local account (where available).
+4. Create a PIN.
+
+Step 9: Privacy Settings
+
+Review each privacy option carefully. Common settings include:
+
+* Location
+* Find my device
+* Diagnostic data
+* Inking and typing personalization
+* Advertising ID
+* Tailored experiences
+
+Choose the options that match your privacy preferences.
+
+Step 10: Windows Update
+
+1. Open Settings → Update & Security → Windows Update.
+2. Click Check for updates.
+3. Install all available updates.
+4. Restart if prompted.
+5. Repeat until no more important updates are available.
+
+Step 11: Install Drivers
+
+* Install drivers from Windows Update or your laptop manufacturer's support website if any devices are missing drivers.
+
+Step 12: Final Checks
+
+* Verify internet connectivity.
+* Confirm display resolution.
+* Test audio, webcam, keyboard, touchpad, and USB ports.
+* Install antivirus software if needed.
+* Restore your personal files from backup.
+
+---
