@@ -1,0 +1,22 @@
+ROUTER VS SWITCH – KEY DIFFERENCES
+
+1. Main Function
+Router:
+- Connects different networks (such as a home network to the Internet) and routes data between them.
+
+Switch:
+- Connects multiple devices within the same Local Area Network (LAN) and allows them to communicate.
+
+2. How They Handle Network Traffic
+Router:
+- Uses IP (Internet Protocol) addresses to determine the best path for data between different networks.
+
+Switch:
+- Uses MAC (Media Access Control) addresses to forward data only to the intended device within the same network.
+
+3. Networks They Connect
+Router:
+- Connects two or more different networks, such as a LAN to the Internet (WAN).
+
+Switch:
+- Connects devices within a single network (LAN), such as computers, printers, and servers in an office or home.
