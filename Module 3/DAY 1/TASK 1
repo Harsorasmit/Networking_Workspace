@@ -1,0 +1,36 @@
+                           INTERNET
+                               │
+                               │
+                     ┌─────────────────┐
+                     │      MODEM      │
+                     │ (ISP Connection)│
+                     └────────┬────────┘
+                              │
+                              │ Ethernet Cable
+                              │
+                     ┌────────▼────────┐
+                     │     ROUTER      │
+                     │ DHCP • NAT •    │
+                     │ Firewall • Wi-Fi│
+                     └───────┬─────────┘
+                  Ethernet   │     Wi-Fi
+                             │
+          ┌──────────────────┴───────────────────┐
+          │                                      │
+  ┌───────▼────────┐                     ┌───────▼────────┐
+  │     SWITCH     │                     │  ACCESS POINT  │
+  │ Expands Wired  │                     │ Extends Wi-Fi  │
+  │ Ethernet Ports │                     │ Coverage       │
+  └───────┬────────┘                     └───────┬────────┘
+          │                                      │
+     ┌────┴────┐                         ┌───────┴────────┐
+     │ Desktop │                         │   Smartphone   │
+     │    PC   │                         │   (Wi-Fi)      │
+     └─────────┘                         └────────────────┘
+
+                         Wi-Fi from Router
+                               │
+                        ┌──────▼──────┐
+                        │   Laptop    │
+                        │   (Wi-Fi)   │
+                        └─────────────┘
