@@ -1,0 +1,22 @@
+NETWORK CONFIGURATION DETAILS
+
+Device: Laptop / Mobile
+Connection Type: Wi-Fi
+
+IP Address       : ______________________
+Subnet Mask      : ______________________
+Default Gateway  : ______________________
+
+How to Find These Details (Windows):
+1. Open Command Prompt.
+2. Type: ipconfig
+3. Press Enter.
+4. Under the Wi-Fi adapter, note the following:
+   - IPv4 Address
+   - Subnet Mask
+   - Default Gateway
+
+Example:
+IP Address       : 192.168.1.105
+Subnet Mask      : 255.255.255.0
+Default Gateway  : 192.168.1.1
