@@ -1,0 +1,12 @@
+### Router vs Switch Comparison Table
+
+| Feature                   | Router                                                                                                   | Switch                                                                                 |
+| ------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+|   Main Use                | Connects different networks (such as a home network to the Internet) and shares the internet connection. | Connects multiple devices within the same Local Area Network (LAN).                    |
+|   Typical Location        | Homes, offices, schools, and businesses where internet access is needed.                                 | Offices, computer labs, server rooms, and businesses with many wired devices.          |
+|   How It Handles Data     | Routes data packets between different networks using IP addresses.                                       | Forwards data frames between devices on the same network using MAC addresses.          |
+|   Connection Type         | Supports both wired (Ethernet) and wireless (Wi-Fi) connections.                                         | Primarily provides wired Ethernet connections.                                         |
+|   IP Address Management   | Assigns IP addresses using DHCP and manages network traffic.                                             | Does not usually assign IP addresses; simply forwards data between connected devices.  |
+|   Internet Access         | Provides access to the Internet by connecting to a modem.                                                | Does not connect directly to the Internet; relies on a router for internet access.     |
+|   Security Features       | Often includes firewall, NAT, parental controls, and other security features.                            | Basic switches generally do not provide firewall or routing security features.         |
+|   Example                 | Home Wi-Fi router connecting laptops, smartphones, and smart TVs to the Internet.                        | Office switch connecting desktop computers, printers, and servers on the same network. |
