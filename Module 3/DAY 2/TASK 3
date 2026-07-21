@@ -1,0 +1,19 @@
+1. Home Wi-Fi Router
+
+| Component                          | Typical Position                                     | Purpose                                                                         |
+| ---------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------- |
+|   Power Port (DC IN)               | Rear panel, usually at one end                       | Connects the router to its power adapter.                                       |
+|   Ethernet Port 1 (WAN/Internet)   | Rear panel, often a different color (blue or yellow) | Connects the router to the modem or ISP connection.                             |
+|   Ethernet Port 2 (LAN)            | Rear panel beside the WAN port                       | Connects a desktop PC, laptop dock, or other wired device to the local network. |
+|   LED Indicators                   | Front or top edge of the router                      | Show Power, Internet/WAN status, Wi-Fi activity, and LAN port activity.         |
+
+
+
+2. Network Switch
+
+| Component           | Typical Position                                            | Purpose                                                                                                      |
+| ------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+|   Power Port        | Rear panel or one side of the switch                        | Supplies power to the switch.                                                                                |
+|   Ethernet Port 1   | Front panel                                                 | Connects a computer, printer, or other network device.                                                       |
+|   Ethernet Port 2   | Front panel next to the first port                          | Connects another wired device or an uplink to a router or another switch.                                    |
+|   LED Indicators    | Above or beside each Ethernet port and a separate Power LED | Indicate power, link status, network activity (blinking), and sometimes connection speed (10/100/1000 Mbps). |
