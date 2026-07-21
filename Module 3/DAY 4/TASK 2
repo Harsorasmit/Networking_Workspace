@@ -1,0 +1,30 @@
+          STRAIGHT-THROUGH ETHERNET CABLE (T568B STANDARD)
+
+          RJ-45 Connector A                  RJ-45 Connector B
+          (Pin 1 → Pin 8)                   (Pin 1 → Pin 8)
+
+      ┌───────────────┐                  ┌───────────────┐
+Pin 1 │ White/Orange  │────────────────▶│ White/Orange  │ Pin 1
+Pin 2 │ Orange        │────────────────▶│ Orange        │ Pin 2
+Pin 3 │ White/Green   │────────────────▶│ White/Green   │ Pin 3
+Pin 4 │ Blue          │────────────────▶│ Blue          │ Pin 4
+Pin 5 │ White/Blue    │────────────────▶│ White/Blue    │ Pin 5
+Pin 6 │ Green         │────────────────▶│ Green         │ Pin 6
+Pin 7 │ White/Brown   │────────────────▶│ White/Brown   │ Pin 7
+Pin 8 │ Brown         │────────────────▶│ Brown         │ Pin 8
+      └───────────────┘                  └───────────────┘
+
+T568B WIRING ORDER
+
+Pin 1 : White/Orange
+Pin 2 : Orange
+Pin 3 : White/Green
+Pin 4 : Blue
+Pin 5 : White/Blue
+Pin 6 : Green
+Pin 7 : White/Brown
+Pin 8 : Brown
+
+Note:
+• A straight-through Ethernet cable uses the same T568B wiring sequence on both ends.
+• It is commonly used to connect a computer to a switch or router, or a switch to a router.
