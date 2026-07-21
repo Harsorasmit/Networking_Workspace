@@ -1,0 +1,24 @@
+LIST OF DEVICES CONNECTED TO HOME WI-FI
+
+Steps:
+1. Connect your laptop to the home Wi-Fi network.
+2. Open Command Prompt.
+3. Type:
+   arp -a
+4. Press Enter.
+5. Note the IP addresses shown in the ARP table.
+6. Identify each device by comparing the IP address with the device you know (phone, laptop, printer, TV, etc.).
+
+Device List
+
++-----------------+---------------------------+-----------------------+
+| IP Address      | Device / Person           | Remarks               |
++-----------------+---------------------------+-----------------------+
+| 192.168.1.1     | Wi-Fi Router              | Default Gateway       |
+| 192.168.1.100   | My Laptop                 | Windows Laptop        |
+| 192.168.1.101   | My Smartphone             | Android/iPhone        |
+| 192.168.1.102   | Family Member's Phone     | Mobile Device         |
+| 192.168.1.103   | Smart TV                  | Streaming Device      |
+| 192.168.1.104   | Wi-Fi Printer             | Network Printer       |
++-----------------+---------------------------+-----------------------+
+
