@@ -1,0 +1,33 @@
+Scenario: Setting Up a Small Gaming Café Network
+
+I am setting up a small gaming café with 8 gaming PCs for multiplayer games and IPL live streaming. The first device connected to the ISP (Internet Service Provider) line will be the Router because it receives the internet connection from the modem/ISP, assigns IP addresses (DHCP), and provides internet access to all devices.
+
+Since a typical router has only a few LAN ports, I will connect one LAN port of the router to an 8-port Gigabit Network Switch using an Ethernet cable. Then, I will connect all 8 gaming PCs to the switch using Cat6 Ethernet cables.
+
+Network Layout:
+
+ISP Line
+    │
+    ▼
++-----------+
+|  Router   |
++-----------+
+      │
+      ▼
++-----------------+
+| 8-Port Switch   |-----------
++-----------------+  |   |   |
+│    │   │   │   │   │   │   │
+PC1 PC2 PC3 PC4 PC5 PC6 PC7 PC8
+
+Justification:
+• Router:
+  - Connected first because it provides internet access.
+  - Assigns IP addresses to all devices.
+  - Protects the network with NAT and firewall features.
+
+• Switch:
+  - Expands the number of Ethernet ports.
+  - Allows all 8 gaming PCs to communicate efficiently on the local network.
+  - Gigabit switch provides high-speed, low-latency connections, which are ideal for multiplayer gaming and smooth IPL streaming.
+
