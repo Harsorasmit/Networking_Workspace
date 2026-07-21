@@ -1,0 +1,43 @@
+I can't log in to your router or take a screenshot from your device.
+
+You can do it yourself by following these steps:
+
+1. Find your router's IP address:
+
+* Open Command Prompt.
+* Run:
+
+     
+     ----ipconfig
+     
+* Look for **Default Gateway** (for example, 192.168.1.1 or 192.168.0.1).
+
+2. Open your web browser.
+
+3. Enter the Default Gateway address into the address bar (for example, http://192.168.1.1) and press Enter.
+
+4. The router's login page should appear.
+
+5. Take a screenshot:
+
+   * Press Win + Shift + S (Snipping Tool) and capture the login page, or
+   * Press PrtScn and paste it into Paint, then save it.
+
+*Example of ipconfig output
+
+
+Windows IP Configuration
+
+Ethernet adapter Ethernet:
+
+   IPv4 Address. . . . . . . . . : 192.168.1.100
+   Subnet Mask . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . : 192.168.1.1
+
+
+In this example, you would open:
+
+
+http://192.168.1.1
+
+
