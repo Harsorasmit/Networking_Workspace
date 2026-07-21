@@ -1,0 +1,15 @@
+ETHERNET CABLE VS FIBER OPTIC CABLE
+
+|      Feature        |                         Ethernet Cable                                 |                               Fiber Optic Cable                                        |
+|---------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Transmission Medium | Uses electrical signals through copper wires.                          | Uses pulses of light through glass or plastic fibers.                                  |
+| Speed & Distance    | Suitable for short distances (up to about 100 meters) with high speeds.| Supports much higher speeds over very long distances (several kilometers).             |
+| Interference        | Can be affected by electromagnetic interference (EMI).                 | Immune to electromagnetic interference, making it more reliable in noisy environments. |
+
+Real-World Examples:
+
+1. Ethernet Cable
+   - Example: Used to connect a home Wi-Fi router to a desktop PC, gaming console, or smart TV.
+
+2. Fiber Optic Cable
+   - Example: Used for data center connections, Internet Service Provider (ISP) backbone networks, and college campus backbone networks to provide high-speed internet over long distances.
