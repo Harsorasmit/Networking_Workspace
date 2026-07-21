@@ -1,0 +1,50 @@
+HOW TO ATTACH AN RJ45 CONNECTOR TO A CAT6 CABLE
+
+Tools Required:
+- CAT6 Ethernet cable
+- RJ45 (CAT6) connector
+- RJ45 crimping tool
+- Wire stripper
+- Cable tester (recommended)
+
+Step 1:
+Cut the CAT6 cable to the required length using a cable cutter.
+
+Step 2:
+Strip about 2–3 cm (1 inch) of the outer jacket without damaging the inner wires.
+
+Step 3:
+Separate the four twisted wire pairs and straighten the eight individual wires.
+
+Step 4:
+Arrange the wires in the T568B wiring order:
+Pin 1 - White/Orange
+Pin 2 - Orange
+Pin 3 - White/Green
+Pin 4 - Blue
+Pin 5 - White/Blue
+Pin 6 - Green
+Pin 7 - White/Brown
+Pin 8 - Brown
+
+Step 5:
+Trim all eight wires evenly so they are the same length.
+
+Step 6:
+Insert the wires fully into the RJ45 connector, ensuring each wire reaches the end and the cable jacket is inside the connector.
+
+Step 7:
+Place the RJ45 connector into the crimping tool and squeeze the handles firmly to crimp the connector.
+
+Step 8:
+Repeat the same T568B wiring order on the other end of the cable to make a straight-through Ethernet cable.
+
+Step 9:
+Test the finished cable using a network cable tester to verify all eight wires are connected correctly.
+
+Precautions:
+- Do not damage the inner wires while stripping the cable.
+- Keep the twisted pairs as close to the connector as possible.
+- Use CAT6-compatible RJ45 connectors.
+- If the connector is crimped incorrectly, replace it with a new one.
+
