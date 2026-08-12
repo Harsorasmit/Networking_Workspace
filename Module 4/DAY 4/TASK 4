@@ -1,0 +1,7 @@
+Power off the PC and disconnect the power cable.
+Open the case and reseat the RAM modules, making sure both retaining clips lock into place.
+If there are multiple RAM sticks, test one stick at a time to identify a potentially faulty module.
+Run Windows Memory Diagnostic (mdsched.exe) or a more thorough tool such as MemTest86.
+Check whether the PC restarts during the memory test or reports any memory errors.
+Test the suspected RAM module in another compatible slot to distinguish a bad RAM stick from a faulty motherboard slot.
+Return the working configuration and run a demanding game or benchmark for an extended period to confirm the PC remains stable.
