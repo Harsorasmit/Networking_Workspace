@@ -1,0 +1,20 @@
+Here are five common hardware issues encountered in desktop PCs, along with their typical symptoms:
+
+* Failing Power Supply Unit (PSU)
+Symptom: The system is completely unresponsive. When the power button is pressed, no lights turn on, no fans spin, and there are no POST beeps. Alternatively, the PC may experience sudden, random shutdowns under heavy load.
+
+
+* Defective or Unseated RAM (Memory)
+Symptom: The computer turns on, but there is no display on the monitor, often accompanied by a sequence of repeating POST error beeps. If the system does boot, it may suffer from frequent and random Blue Screen of Death (BSOD) crashes or sudden freezes.
+
+
+* Overheating CPU
+Symptom: The system runs normally for a short period but suddenly shuts down or restarts without warning, especially when running demanding software like games or video editors. The system fans will usually spin at maximum volume right before the crash.
+
+
+* Failing Storage Drive (HDD/SSD)
+Symptom: The computer takes an exceptionally long time to boot, files take forever to load, or the system frequently hangs. For mechanical hard drives, you might hear a repetitive clicking or grinding noise. In severe cases, the system displays a "Boot device not found" or "No bootable device" error.
+
+
+* Faulty Graphics Card (GPU)
+Symptom: Visual artifacts appear on the monitor, such as scattered colored squares, horizontal lines, or strange geometric glitches. The screen might also randomly go completely black or display a "No Signal" message while the computer tower remains powered on.
