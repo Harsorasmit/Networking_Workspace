@@ -1,0 +1,18 @@
+1.Shut down the computer completely and unplug the power cable. For a laptop, disconnect the charger and remove the battery if it is removable.
+2.Press the power button for a few seconds to discharge residual power.
+3.Remove the computer’s side panel or bottom cover.
+4.Locate the RAM slots on the motherboard. They are usually long slots next to the CPU.
+5.Push the locking clips at both ends of the RAM slot outward.
+6.Hold the RAM module by its edges and carefully remove it. Do not touch the gold contacts.
+7.Inspect the RAM and slot for dust, dirt, or visible damage.
+8.Align the notch on the RAM module with the key in the slot.
+9.Press the RAM module firmly and evenly into the slot until the locking clips click into place.
+10.Reconnect the cover, power cable, and battery if applicable.
+11.Start the computer and check whether it boots normally and detects the correct amount of RAM.
+
+
+
+
+*Issues to document*
+
+Record whether you noticed any dust, loose connections, damaged contacts, difficulty removing/reinstalling the module, or failure to boot after reseating. If the system does not start, power it off and check that the RAM is fully seated and that the clips are locked.
