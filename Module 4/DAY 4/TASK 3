@@ -1,0 +1,17 @@
+Before unplugging the drive:
+
+The system boots normally into Windows/Linux.
+In BIOS/UEFI, the SSD/HDD is listed under Storage/SATA Information or NVMe Information.
+The operating system can access the drive normally.
+
+After disconnecting the SATA/NVMe drive and starting the PC:
+
+BIOS/UEFI may show “No SATA device detected,” “NVMe drive not detected,” or the drive may simply disappear from the storage list.
+If it is the boot drive, the system may display messages such as “No bootable device,” “Boot device not found,” or “Operating system not found.”
+A system with another bootable drive may still start normally, but the disconnected drive will be missing from the operating system.
+
+After reconnecting the drive:
+
+Enter BIOS/UEFI and check that the SSD/HDD appears again under the storage devices.
+Boot into the operating system and verify that the drive is visible in File Explorer/Disk Management (Windows) or the appropriate disk utility.
+Open a few files or run a disk check to confirm that the drive is functioning correctly.
