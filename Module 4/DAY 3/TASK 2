@@ -1,0 +1,4 @@
+Reseat the RAM: Power off and unplug the PC, remove the RAM modules, clean the contacts carefully, and firmly reinstall them. Try booting with one module at a time.
+Test compatible RAM/slots: Try a known-good RAM module or move the module to another recommended memory slot to determine whether the RAM stick or motherboard slot is faulty.
+
+Conclusion: Three repeating beeps with no display strongly points to a RAM/memory initialization problem on a typical AMI BIOS system.
