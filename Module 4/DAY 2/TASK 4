@@ -1,0 +1,16 @@
+| Step | Procedure                                            | Result / Check                                     |
+| ---- | ---------------------------------------------------- | -------------------------------------------------- |
+| 1    | Shut down the PC and disconnect it from mains power. | Ensure the PC is safe to work on.                  |
+| 2    | Disconnect the ATX connector from the motherboard.   | Locate the yellow (+12V) and black (Ground) wires. |
+| 3    | Set the multimeter to **DC Voltage (V⎓)**.           | Select a suitable range, such as 20 V DC.          |
+| 4    | Connect the **red probe to the yellow wire**.        | This is the +12V rail.                             |
+| 5    | Connect the **black probe to a black wire**.         | This is Ground (0 V).                              |
+| 6    | Read and record the voltage.                         | **Measured voltage: 12.08 V DC**                   |
+| 7    | Compare the reading with the expected value.         | 12.08 V is normal for a 12 V rail.                 |
+
+
+Recorded voltage: 12.08 V DC
+
+Conclusion: The measured voltage is above 11.5 V, so this test does not indicate an obvious low-voltage 12 V rail problem.
+
+If the reading were below 11.5 V, it could indicate a failing or weak PSU/SMPS, particularly a problem with its 12 V output. This can cause random shutdowns, especially when the PC is under load.
