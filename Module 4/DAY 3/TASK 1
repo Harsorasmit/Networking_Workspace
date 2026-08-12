@@ -1,0 +1,7 @@
+BIOS / POST Error Message              | Hardware or Configuration Issue                                                |
+-------------------------------------- | ------------------------------------------------------------------------------ |
+CMOS Checksum Error                    | CMOS battery may be weak/dead, or BIOS settings may be corrupted/reset.        |
+Keyboard Error / Keyboard Not Detected | Keyboard is disconnected, faulty, or the USB/PS2 port has a problem.           |
+No Boot Device Found                   | HDD/SSD is not detected, the drive has failed, or the boot order is incorrect. |
+Memory Error / RAM Error               | RAM may be loose, faulty, incompatible, or incorrectly installed.              |
+CPU Fan Error                          | CPU cooler fan may be disconnected, blocked, or spinning too slowly.           |
