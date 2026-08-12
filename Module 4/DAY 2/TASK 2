@@ -1,0 +1,29 @@
+Step 1: Verify the Power Source and Cable Integrity
+
+What to check: The physical environment and external connections before opening any hardware.
+
+Action: Plug a known working device (like a lamp) into the same wall outlet to confirm it has power. Inspect the entire length of the laptop's AC adapter cable, paying close attention to the base of the brick and the connector end, for any fraying, kinks, or exposed wires.
+
+Step 2: Test the AC Adapter Output
+
+What to check: Whether the charger is actually delivering the correct voltage to the machine.
+
+Action: Plug the AC adapter into the wall. Using a multimeter set to DC voltage, place the negative probe on the outside of the charger's barrel connector and the positive probe on the inside (or follow the specific pinout for USB-C/proprietary chargers). Verify that the voltage reading matches the output rating printed on the power brick (typically around 19V to 20V).
+
+Step 3: Inspect the DC Jack (Charging Port)
+
+What to check: Physical damage, obstruction, or a broken solder joint at the point of power entry.
+
+Action: Shine a flashlight into the laptop’s charging port. Look for bent pins, burnt plastic, or compacted debris. Gently wiggle the plugged-in charger to feel for excessive play, which often indicates a broken internal DC jack that needs replacing.
+
+Step 4: Perform a Hard Reset (Flea Power Drain)
+
+What to check: If a static charge or a locked-up hardware power state is preventing the charging circuitry from engaging.
+
+Action: Disconnect the AC adapter. Remove the battery (if it is externally removable) or open the chassis to unplug the internal battery connector from the motherboard. Press and hold the laptop's power button for 30 to 60 seconds to drain all residual electrical charge from the capacitors.
+
+Step 5: Isolate the Battery
+
+What to check: Whether a shorted or completely dead battery is actively preventing the motherboard from powering on.
+
+Action: With the battery still physically disconnected from the motherboard, plug the AC adapter back into the laptop and press the power button. If the laptop powers on normally without the battery, the charging circuit is likely fine, but the battery itself has failed and requires replacement. While the chassis is open, visually inspect the battery for any dangerous swelling (spicy pillow).
