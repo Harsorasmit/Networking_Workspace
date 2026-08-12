@@ -1,0 +1,11 @@
+Enter the BIOS/UEFI setup during startup, usually by pressing Delete, F2, F10, or Esc.
+
+Load Optimized/Default Settings and save the changes.
+
+Check and correct important settings such as system date/time, boot order, SATA mode, and memory settings.
+
+If the error returns after shutdown, replace the CMOS battery with a compatible CR2032 battery.
+
+After replacing the battery, enter BIOS again, set the correct date/time and required settings, then save and reboot.
+
+If the error continues even with a new battery, check for BIOS firmware corruption or a motherboard fault and consider updating/recovering the BIOS according to the motherboard manufacturer’s instructions.
