@@ -1,0 +1,8 @@
+1. Identify the symptom: Check whether the PC has no display, screen artifacts, crashes, low FPS, black screens, or GPU-related error messages.
+2. Check the display connection: Make sure the monitor is powered on and the HDMI/DisplayPort cable is firmly connected to the GPU’s video output, not the motherboard’s port.
+3. Check physical GPU connections: Shut down and unplug the PC. Verify that the GPU is firmly seated in the PCIe slot and that all required PCIe power connectors are securely attached.
+4. Inspect for physical problems: Check the GPU, PCIe slot, power cables, and cooling fans for dust, loose connections, overheating, or visible damage.
+5. Check GPU drivers: In Windows Device Manager, locate Display adapters and check for warning symbols. Update or reinstall the graphics driver using the GPU manufacturer’s official software.
+6. Check temperatures and performance: Run a monitoring tool while gaming and check whether the GPU is overheating or showing abnormal clock speeds, fan behavior, or crashes.
+7. Test with another component: Try another display cable, monitor, PCIe slot (when available), or a known-good GPU to determine whether the problem is caused by the GPU or another component.
+8. Confirm the fix: Restart the PC, verify that the GPU is detected correctly, and run a game or graphics benchmark for several minutes. Confirm that the display is stable, artifacts are gone, and performance is normal.
