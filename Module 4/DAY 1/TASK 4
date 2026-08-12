@@ -1,0 +1,5 @@
+| Tool                     | What it checks                                                                                               | Example Problem Detected                                                             |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+|   Multimeter             | Checks electrical values such as voltage, resistance, and continuity.                                        | Faulty power supply:     detects incorrect voltage output from an SMPS.              |
+|   POST Card              | Checks the computer’s Power-On Self-Test process and displays POST/BIOS diagnostic codes.                    | RAM failure:   shows a POST error code when memory is not detected.                  |
+|   Software Diagnostics   | Checks hardware health, temperatures, storage status, memory usage, and system performance through software. | Overheating CPU:   detects unusually high CPU temperature using a monitoring tool.   |
